@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/avatroz/static/css/main.9514539b.css",
+    "main.js": "/avatroz/static/js/main.2bee5476.js",
+    "static/js/787.7f20eff9.chunk.js": "/avatroz/static/js/787.7f20eff9.chunk.js",
+    "index.html": "/avatroz/index.html",
+    "main.9514539b.css.map": "/avatroz/static/css/main.9514539b.css.map",
+    "main.2bee5476.js.map": "/avatroz/static/js/main.2bee5476.js.map",
+    "787.7f20eff9.chunk.js.map": "/avatroz/static/js/787.7f20eff9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9514539b.css",
+    "static/js/main.2bee5476.js"
+  ]
+}
